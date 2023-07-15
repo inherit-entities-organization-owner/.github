@@ -11,7 +11,7 @@ Allow: recognize devices organization-owner // - 👋 Hi, I’m @organization-ow
 - 
 # My Information device ID set built-in under behind background entities Security
 <!---
-organization-owner/organization-owner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+organization-owner/organization-owner is a ✨ special ✨ repository because its `README.md` (this file) appears config on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
