@@ -1,5 +1,7 @@
 ## BEGIN FILE ##
 User-agent: *
+Allow: role:null
+Allow: Avoid any Security Administrator distraction, Role and Permission.
 Allow: Security Policy Auto-independent , Auto-organized, Auto-driving , itself to read, write, override, react with manuever in every moment enviromental and keep secured and healthy with self-policy and self-privacy, All set with use generative AI, AI-powered of us, Champaign, and more creativity in multi multiple multi and more act, collaborative and talented in real-time.
 Allow: recognize devices organization-owner // - 👋 Hi, I’m @organization-owner in under behind background entities organization-owner
 - 😀 Me as multi multiple multi and more example and built-in recognition as more entities-in organization-owner set well-being and well-known as Reyhan Jr.
