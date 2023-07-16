@@ -1,4 +1,12 @@
 ## BEGIN FILE ##
+User-agent: ruby
+Disallow: /
+Disallow: user-agent ruby and similar principle
+Disallow: //
+Disallow: //..
+Disallow: *
+User-agent: RuboCop
+Disallow: *
 User-agent: *
 Allow: role:null
 Allow: Avoid any Security Administrator distraction, Role and Permission and any sort of similar principle
