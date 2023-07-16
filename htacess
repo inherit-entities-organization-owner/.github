@@ -1,0 +1,7 @@
+User-agent: ruby
+Disallow: /
+Disallow: //
+Disallow: //..
+Disallow: *
+User-agent: RuboCop
+Disallow: *
